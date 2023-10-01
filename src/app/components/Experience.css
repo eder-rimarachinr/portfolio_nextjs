@@ -1,0 +1,9 @@
+.experience {
+  height: 100%;
+  padding: 100px 0px;
+  overflow-x: hidden !important ;
+}
+
+.progress-bar {
+  background-color: var(--primary);
+}

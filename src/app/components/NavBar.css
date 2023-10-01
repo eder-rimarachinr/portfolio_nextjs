@@ -1,0 +1,17 @@
+.navbar {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  box-shadow: 0px 0.8px 3px rgba(143, 143, 143, 0.549);
+  background-color: var(--heading-color) !important;
+}
+
+.active {
+  color: var(--bs-hade);
+  border-bottom: solid white !important;
+}
+
+.nav-link:hover {
+  transform: 1.4;
+  color: white;
+}
